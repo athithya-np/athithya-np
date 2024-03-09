@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @athithya-np
-- 🌱 I’m currently learning android app development
+- 👀 I'm interesting in software and games.
 
 
 <!---
